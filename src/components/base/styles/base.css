@@ -1,0 +1,24 @@
+.base-list{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.base-vlist{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+}
+.base-background{
+    margin: .25rem;
+    width:100%;
+    border: rgba(0, 0, 0, 0.11) 10px solid;
+    background-color: rgba(128, 128, 128, 0.36);
+    border-radius: 5px;
+    flex-wrap: wrap;
+}

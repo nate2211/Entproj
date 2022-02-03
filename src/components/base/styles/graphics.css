@@ -1,0 +1,18 @@
+
+.fancyImage{
+    background-color: lightpink;
+    height: 15rem;
+    display: flex;
+
+}
+.text-overlay{
+
+}
+.text-overlay > p{
+    text-align: center;
+}
+.bigImage{
+    mix-blend-mode: multiply;
+    width: 60rem;
+    height: 15rem;
+}
